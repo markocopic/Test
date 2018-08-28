@@ -1,6 +1,7 @@
 <template>
 <div>
   <h1>Ninjas</h1>
+  <h2>Marko</h2>
 <ul>
   <li v-for="ime in ninjas">{{ ime }}</li>
 </ul>
